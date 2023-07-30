@@ -1,0 +1,25 @@
+body{
+  
+  background-image: url("as.png");
+  background-size: cover;
+  background-position: center;
+
+}
+
+h1{
+  color: red;
+}
+.quote{
+  width: 20%;
+  margin-top: 25vh;
+  padding: 5%;
+   background: rgba(255, 255, 255, 0.5);
+}
+.content{
+  font-size: 30px;
+  text-align: left;
+  color:black;
+}
+.author{
+  float: right;
+}
